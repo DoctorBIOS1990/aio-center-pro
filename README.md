@@ -6,7 +6,7 @@
  
   I jointly belong to a community of computer repairers, where everyone suffered from the same problem. Initially this project was intended for my personal consumption, but little by little it began to be requested by the community.
   
-  Currently it has 45 users from 8 countries, with 8 active collaborators, the most experienced in this matter, together with my own experience.
+  Currently it has 55 users from 8 countries, with 8 active collaborators, the most experienced in this matter, together with my own experience.
   
   This software was born in 2022, and continues to be developed to this day.
 </p>
