@@ -166,16 +166,6 @@ AIO Center Pro is structured as a **commercial-ready product**, supporting:
 
 ---
 
-## 📈 Future Improvements
-
-* Cloud sync (optional hybrid mode)
-* Multi-user network support
-* Role-based access control
-* Analytics dashboard
-* Mobile companion app
-
----
-
 ## 📦 Distribution Model
 
 * Desktop application deployment
