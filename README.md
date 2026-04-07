@@ -1,50 +1,191 @@
-# :hammer_and_wrench: Center AIO Pro v2.0
+# 🧰 AIO Center Pro – All-in-One Technical Service Management Platform
 
-<p>
-  Within my work experience, I dedicated myself for more than 5 years to the logical and electrical repair of computer equipment, and other electronic equipment.
-  Detecting impediments when managing information, deduction and analysis of failures and spare parts.
- 
-  I jointly belong to a community of computer repairers, where everyone suffered from the same problem. Initially this project was intended for my personal consumption, but little by little it began to be requested by the community.
-  
-  Currently it has 55 users from 8 countries, with 8 active collaborators, the most experienced in this matter, together with my own experience.
-  
-  This software was born in 2022, and continues to be developed to this day.
-</p>
+## 📌 Overview
 
-<h4>Features</h4>
-  <ul>
-    <li>Economic, inventory and statistical management of the workshop.</li>
-    <li>Calculation of resistive divider, load factor, equivalent resistances, tralation of smd codes, default list of dividers used in pc.</li>
-    <li>List of Post Codes by hardware manufacturer, bios designer, by post card model and list of registered faults.</li>
-    <li>Companion semi-integrated apps for bios edtiting and analysis</li>
-    <li>Direct search in online stores.</li>
-    <li>Dual Library, summary datasheets and help files, guides, tips and boot sequences.</li>
-    <li>Screen printing catalog Richtek, RichPower, Onsemi, Nexperia, MPS, Panjit, Silergy, etc</li>
-    <li>Direct search on oficial and third-party sites</li>
-    <li>IC equivalents database, search for laptop, desktop, graphics parts.</li>
-  </ul>
+**AIO Center Pro** is a desktop-based management platform designed for **technical service businesses**, enabling efficient control of:
 
-<div>
-  [ <img src="https://wiki.videolan.org/images/Windows_logo.png" alt="Windows logo" width="20" />
-  <strong> Designed for Windows</strong> ] <a href="https://doctorbios1990.github.io/aio-center">Website</a>
-</div>
+* Device repairs
+* Customer management
+* Inventory
+* Repairs the service tracking
 
-</br>
+Built with a focus on **usability, offline capability, and real-world operational needs**, this system is ideal for environments with **limited connectivity and high hardware failure rates**.
 
-# :camera_flash: Main ScreenShot & some functions
+---
 
-<div align="center">
-   <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Welcome%20screen.jpeg" width="150"/> 
-  <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Pin%20Comparator.jpg" width="150"/> 
-  <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Where%20is%20it%20Scrap.jpg" width="150"/> 
-  <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Collaborators%20Technisians.jpg" width="150"/>
+## 🎯 Product Vision
 
-  :point_right:<a href="https://inorepair.com/descubre-el-poder-del-software-inoel-repara-center-aio-2pro-tu-aliado-definitivo-en-la-reparacion-de-equipos-informaticos/"> Visit to main collaborating electronic technician</a>
+AIO Center Pro was created to solve real problems in technical workshops where:
 
-</div>
-</br></br>
+* Internet access is unstable or unavailable
+* Hardware failures are frequent
+* Technicians need fast, reliable tools without cloud dependency
 
-# ⏬ Download User Guide
-<a href="https://drive.google.com/file/d/1y7ta83Cg4fj4AL_S_3m-qvOs2tgpjV8j/view?usp=sharing">
-  <img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/User%20Guide.jpg"/> 
-</a>
+👉 The system follows a **local-first architecture**, ensuring full operability without internet access.
+
+---
+
+## 🚀 Core Features
+
+### 🧑‍🔧 Technical Service Management
+
+* Device intake and repair tracking
+* Status control (received, in progress, completed, delivered)
+* Technician assignment
+
+---
+
+### 👥 Customer Management
+
+* Customer registration and history
+* Association with repair orders
+* Contact tracking
+
+---
+
+### 💰 Repairs the Service Control
+
+* Service pricing management
+* Payment tracking
+* Transaction history
+
+---
+
+### 📦 Inventory Management
+
+* Parts and components tracking
+* Stock control
+* Usage linked to repairs
+
+---
+
+### 📄 Reporting & Traceability
+
+* Repair history records
+* Customer activity tracking
+* Operational information
+* Statistics, forecasts, and indicators
+
+---
+
+## ⚙️ Key Differentiators
+
+### 🔌 Offline-First Architecture
+
+* Fully functional without internet
+* Designed for low-connectivity regions
+* No cloud dependency required
+
+---
+
+### 💾 Data Safety & Backup System
+
+* Manual and automatic backups.
+* Designed for environments with frequent system failures.
+
+---
+
+### ⚡ Performance-Oriented
+
+* Fast local database operations
+* Optimized workflows for technicians
+* Minimal latency in daily operations
+
+---
+
+### 🧠 Real-World Engineering
+
+This product was built based on real operational challenges:
+
+* Power outages
+* Hardware instability
+* Limited infrastructure
+
+👉 Prioritizing **continuity, simplicity, and reliability**
+
+---
+
+## 🏗️ System Design
+
+* Modular architecture
+* Separation of concerns
+* Maintainable and extensible structure
+
+### Features
+* Economic, inventory and statistical management of the workshop.
+* Calculation of resistive divider, load factor, equivalent resistances, tralation of smd codes, default list of dividers used in pc.
+* List of Post Codes by hardware manufacturer, bios designer, by post card model and list of registered faults.
+* Companion semi-integrated apps for bios edtiting and analysis
+* Direct search in online stores.
+* Dual Library, summary datasheets and help files, guides, tips and boot sequences.
+* Screen printing catalog Richtek, RichPower, Onsemi, Nexperia, MPS, Panjit, Silergy, etc
+* Direct search on oficial and third-party sites
+* IC equivalents database, search for laptop, desktop, graphics parts.
+
+---
+
+## 🖥️ User Interface
+
+* Desktop-oriented design
+* Fast navigation for technicians
+* Optimized workflows for daily operations
+
+---
+
+## 📸 Main ScreenShot & some functions (v2.0, last version: v2.1)
+
+<table align="center">
+  <tbody>
+      <tr>
+       <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Welcome%20screen.jpeg" width="150"/></td>
+       <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Pin%20Comparator.jpg" width="150"/></td>
+        <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Where%20is%20it%20Scrap.jpg" width="150"/></td>
+        <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Collaborators%20Technisians.jpg" width="150"/></td>
+      </tr>
+  </tbody>
+</table>
+
+---
+
+## 🧪 Use Cases
+
+* Computer repair shops
+* Electronics service centers
+* Independent technicians
+* Small-to-medium technical businesses
+
+---
+
+## 💼 Business Potential
+
+AIO Center Pro is structured as a **commercial-ready product**, supporting:
+
+* Subscription-based licensing
+* Tiered pricing models
+* Single-client deployment
+
+---
+
+## 📈 Future Improvements
+
+* Cloud sync (optional hybrid mode)
+* Multi-user network support
+* Role-based access control
+* Analytics dashboard
+* Mobile companion app
+
+---
+
+## 📦 Distribution Model
+
+* Desktop application deployment
+* License-based access
+* Configurable subscription plans
+
+---
+
+## 📄 License
+
+This project is a proprietary software product intended for commercial use and demonstration purposes.
+
+<img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/User%20Guide.jpg"/> 
