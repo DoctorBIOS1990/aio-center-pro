@@ -137,10 +137,9 @@ This product was built based on real operational challenges:
 <table align="center">
   <tbody>
       <tr>
-       <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Welcome%20screen.jpeg" width="150"/></td>
-       <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Pin%20Comparator.jpg" width="150"/></td>
-        <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Feature%20Where%20is%20it%20Scrap.jpg" width="150"/></td>
-        <td><img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/Collaborators%20Technisians.jpg" width="150"/></td>
+       <td><img src="./Screenshots/Main.webp" width="200"/></td>
+       <td><img src="./Screenshots/Scrap.webp" width="200"/></td>
+        <td><img src="./Screenshots/Pin%20Comparator.webp" width="200"/></td>     
       </tr>
   </tbody>
 </table>
@@ -178,4 +177,8 @@ AIO Center Pro is structured as a **commercial-ready product**, supporting:
 
 This project is a proprietary software product intended for commercial use and demonstration purposes.
 
-<img src="https://github.com/DoctorBIOS1990/aioCenterPro/blob/main/ScreenShots/User%20Guide.jpg"/> 
+## 📄 User Guide
+
+* Available Now
+
+<img src="./Screenshots/Portada.webp" align='center' width="200"/> 
