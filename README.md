@@ -181,4 +181,6 @@ This project is a proprietary software product intended for commercial use and d
 
 * Available Now
 
-<img src="./Screenshots/Portada.webp" align='center' width="200"/> 
+<div align="center">
+  <img src="./Screenshots/Portada.webp" align='center' width="200"/> 
+</div>
