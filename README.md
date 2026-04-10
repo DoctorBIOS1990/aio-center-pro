@@ -132,7 +132,7 @@ This product was built based on real operational challenges:
 
 ---
 
-## 📸 Main ScreenShot & some functions (v2.0, last version: v2.1)
+## 📸 Main ScreenShot & some functions
 
 <table align="center">
   <tbody>
